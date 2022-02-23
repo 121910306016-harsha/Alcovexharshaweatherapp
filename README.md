@@ -10,5 +10,10 @@ OUTPUT:-
 
 ![image](https://user-images.githubusercontent.com/70202802/155417155-69aeee03-f505-40ad-ada6-29b08455d309.png)
 
+---responsive on phone/lap
+
+![image](https://user-images.githubusercontent.com/70202802/155417633-c4b73cc7-5f8f-493f-a4ad-6eee0fd0d9cc.png)
+
+-->spinner snap shot
 
 ![image](https://user-images.githubusercontent.com/70202802/155417354-8f5b4ac4-bef7-479f-9936-82a79b751d57.png)
