@@ -70,10 +70,9 @@ p {
   font-size: 30px;
   color: #5a5ac4;
 }
-a{
+.city-name a{
   color:black;
 }
-
 .city-icon {
   margin-top: 10px;
   width: 100px;
