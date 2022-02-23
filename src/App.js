@@ -37,7 +37,7 @@ const App = () => {
  
      <div className="city">
        <h2 className="city-name">
-         <a>THE WEATHER APP</a><br></br>
+         <k>THE WEATHER APP</k><br></br>
          <br></br>
          <center><span>{weather.name}</span></center>
        </h2>
