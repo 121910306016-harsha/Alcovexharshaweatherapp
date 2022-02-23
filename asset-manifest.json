@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Alcovexharshaweatherapp/static/css/main.d4944726.css",
-    "main.js": "/Alcovexharshaweatherapp/static/js/main.bb8af26b.js",
+    "main.css": "/Alcovexharshaweatherapp/static/css/main.e70a7ade.css",
+    "main.js": "/Alcovexharshaweatherapp/static/js/main.b5668af2.js",
     "static/js/787.28cb0dcd.chunk.js": "/Alcovexharshaweatherapp/static/js/787.28cb0dcd.chunk.js",
     "static/media/bg.jpg": "/Alcovexharshaweatherapp/static/media/bg.650c4682f3222223f5b5.jpg",
     "index.html": "/Alcovexharshaweatherapp/index.html",
-    "main.d4944726.css.map": "/Alcovexharshaweatherapp/static/css/main.d4944726.css.map",
-    "main.bb8af26b.js.map": "/Alcovexharshaweatherapp/static/js/main.bb8af26b.js.map",
+    "main.e70a7ade.css.map": "/Alcovexharshaweatherapp/static/css/main.e70a7ade.css.map",
+    "main.b5668af2.js.map": "/Alcovexharshaweatherapp/static/js/main.b5668af2.js.map",
     "787.28cb0dcd.chunk.js.map": "/Alcovexharshaweatherapp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4944726.css",
-    "static/js/main.bb8af26b.js"
+    "static/css/main.e70a7ade.css",
+    "static/js/main.b5668af2.js"
   ]
 }
