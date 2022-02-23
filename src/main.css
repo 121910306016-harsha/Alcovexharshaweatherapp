@@ -56,6 +56,9 @@ p {
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
+.city sup {
+  font-size: 0.5em;
+}
 
 .city-temp {
   font-size: 5rem;
@@ -64,15 +67,14 @@ p {
   color: #1e2432;
   text-align: center;
 }
-
-
 .city-name {
   font-size: 30px;
   color: #5a5ac4;
 }
-.city-name a{
+k{
   color:black;
 }
+
 .city-icon {
   margin-top: 10px;
   width: 100px;
