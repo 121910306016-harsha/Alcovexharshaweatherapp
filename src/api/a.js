@@ -3,7 +3,7 @@ import React, {useState, useEffect} from 'react';
 
 const URL = "https://api.openweathermap.org/data/2.5/weather";
 const API_KEY = "71f6779186cc32448b4c412eea65b982";
-var l=0
+
 export const fetchweather = async (query) => {
   const { data } = await axios.get(URL, {
     params: {
