@@ -3,20 +3,23 @@ body,
 #root {
   font: 0.9rem sans-serif;
   color: #1e2432;
+  background: linear-gradient(white,white);
   height: 100%;
   margin: 0;
+  padding-top: 30px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 .main-container {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418)),
-    url("img/bg.jpg");
   background-size: cover;
+  background: linear-gradient(powderblue);
 
 }
-
+.pic{
+  width:fit-content
+}
 .main-container {
-  height: 100%;
+  height: 110%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -38,7 +41,10 @@ body,
 .search :placeholder-shown {
   display: none;
 }
-
+h2{
+  color:#5a5ac4;
+  font-size: 30px;
+}
 
 .city {
   display: flex;
@@ -67,12 +73,9 @@ p {
   color: #1e2432;
   text-align: center;
 }
-.city-name {
-  font-size: 30px;
-  color: #5a5ac4;
-}
+
 k{
-  color:black;
+  color:#5a5ac4;
 }
 
 .city-icon {
@@ -98,5 +101,9 @@ p{
 
   .city {
     padding: 40px 20%;
+  }
+  .image{
+    width:10px;
+    display: center;
   }
 }
