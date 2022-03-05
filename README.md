@@ -8,11 +8,10 @@
 
 OUTPUT:-
 
-![image](https://user-images.githubusercontent.com/70202802/155417155-69aeee03-f505-40ad-ada6-29b08455d309.png)
-
+![image](https://user-images.githubusercontent.com/70202802/156874140-843b22e8-a51f-48e1-98b9-5fcfc24fd8a1.png)
 ---responsive on phone/lap
 
-![image](https://user-images.githubusercontent.com/70202802/155417633-c4b73cc7-5f8f-493f-a4ad-6eee0fd0d9cc.png)
+![image](https://user-images.githubusercontent.com/70202802/156874194-ee9662a7-b79a-4ff5-a794-ffa238949a2d.png)
 
 -->spinner snap shot
 
